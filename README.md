@@ -7,13 +7,13 @@
  4) implement low-power mode
  
  
- Progress and Issues:
- 1) 
- a - weak node transmit signal -> Gateway received signal's RSSI is constanly < -110dBm.
- b - stable but "periodic" node receive signal -> OTTA activations can only be archieved during nighttime.
- 1+)
- a - retry and confirm signal strength pattern
- b - assess practicality of continuing this project in the current location
+ Progress and Issues:  
+ 1)   
+ a - weak node transmit signal -> Gateway received signal's RSSI is constanly < -110dBm.  
+ b - stable but "periodic" node receive signal -> OTTA activations can only be archieved during nighttime.  
+ 1+)  
+ a - retry and confirm signal strength pattern  
+ b - assess practicality of continuing this project in the current location  
  
  
  *Notes
