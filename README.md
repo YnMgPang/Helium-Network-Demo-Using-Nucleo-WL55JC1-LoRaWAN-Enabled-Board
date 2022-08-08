@@ -12,13 +12,13 @@
  1)   
  a - weak node transmit signal -> Gateway received signal's RSSI is constantly < -110dBm.  
  b - OTTA activations can only be archieved during nighttime.  
- 2) from 1) 
- -> signal issues difficult to resolve on node-side
- -> This project now focuses on b) to d) while putting a) on-hold.
+ 2) from 1)   
+ -> signal issues difficult to resolve on node-side  
+ -> This project now focuses on b) to d) while putting a) on-hold.  
  
  
- *Notes
- - WL55JC1 and WL55JC2 work in different regions according to local radio policies.
+ *Notes  
+ - WL55JC1 and WL55JC2 work in different regions according to local radio policies.  
  
  
- ***details to be added
+ ***details to be added  
